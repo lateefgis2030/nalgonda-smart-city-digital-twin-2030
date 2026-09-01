@@ -233,9 +233,13 @@ This project demonstrates practical experience in:
 
 ---
 
+
 ## 📄 Project Case Study
 
-A detailed project case study documenting the complete GIS workflow, infrastructure development, 3D visualization, and final Smart City Digital Twin will be available in the `documentation` folder.
+A detailed case study covering the complete GIS workflow, smart infrastructure development, 3D building visualization, utility networks, terrain integration, and final Smart City Digital Twin is available below:
+
+[📘 View Nalgonda Smart City Digital Twin 2030 Case Study](documentation/Nalgonda_Smart_City_Digital_Twin_2030_Case_Study.pdf)
+
 
 ---
 
